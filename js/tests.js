@@ -3,7 +3,7 @@ const expect = chai.expect
 
 describe('Las variables en Javascript', () => {
   it('pueden contener strings', () => {
-    // Añade la línea que falta
+    
     const a = "Javascript"
     expect(a).to.equal("Javascript");
   })
